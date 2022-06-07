@@ -9,6 +9,7 @@
   "author": "Ryan Mahara",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^19.0.0"
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.5"
   }
 }
